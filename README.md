@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-🌱 I’m currently learning Python, Django and MySQL.
-💬 Ask me about Python.
-📫 How to reach me: marleypaesstrapazon@gmail.com
-⚡ Fun fact: I love chess.
+### 🌱 I’m currently learning Python, Django and MySQL.
+### 💬 Ask me about Python.
+### 📫 How to reach me: marleypaesstrapazon@gmail.com
+### ⚡ Fun fact: I love chess.

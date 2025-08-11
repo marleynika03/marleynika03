@@ -1,6 +1,7 @@
-### Hi there 👋
+🎓 Systems Analysis and Development student at Unopar University – Brazil
+💻 Currently working with: Python, SQL (PostgreSQL, MySQL, Oracle), APIs & integrations
+🚀 Exploring: Java, cloud security, and process automation
+🔍 Interests: backend development, cybersecurity, and pentest labs
+♟ Fun fact: I’m a chess enthusiast — always looking for the next checkmate
 
-### Studying systems analysis and development at Unopar University in Brazil
-### 🌱 I’m currently working with Python and SQL.
-### 📫 How to reach me: marleypaesstrapazon@gmail.com
-### ⚡ Fun fact: I love chess.
+📫 Contact: marleypaesstrapazon@gmail.com
